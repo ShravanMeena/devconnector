@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://shravan:shravan123@mernapp-iknkd.mongodb.net/test?retryWrites=true&w=majority",
+  "monogLocal": "mongodb://localhost/MERN",
+  "jwtSecret": "myjwtsecretekey"
+}
